@@ -1,7 +1,7 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><p><a target="_blank" rel="noopener noreferrer" <a href="https://github.com/EnesKM/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=Bdrnpr&show_icons=true&include_all_commits=true&theme=github_dark" alt="Enes's github stats" /></a></a></p>
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><p><a target="_blank" rel="noopener noreferrer" <a href="https://github.com/EnesKM/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=EnesKM&show_icons=true&include_all_commits=true&theme=github_dark" alt="Enes's github stats" /></a></a></p>
   
 <h1 dir="auto"><a id="user-contenthi-im-enes" class="anchor" aria-hidden="true" href="#hi-im-enes"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi👋, I'm Enes!</h1>
 <p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer" 
-<a href="https://twitter.com/Bdrnpr"><img alt="Twitter" height="40" width="40" src="icon/twitter.svg"></a>
-  <a href="https://www.facebook.com/bedranp"><img alt="Facebook" height="38" width="38" src="icon/facebook.svg"></a>
-  <a href="https://www.linkedin.com/in/bedran-piro-49a226155/"><img alt="Linkedin" height="38" width="38" src="icon/linkedin.svg"></a>
+<a href="https://twitter.com/"><img alt="Twitter" height="40" width="40" src="icon/twitter.svg"></a>
+  <a href="https://www.facebook.com/"><img alt="Facebook" height="38" width="38" src="icon/facebook.svg"></a>
+  <a href="https://www.linkedin.com/"><img alt="Linkedin" height="38" width="38" src="icon/linkedin.svg"></a>
